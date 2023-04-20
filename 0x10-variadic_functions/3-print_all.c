@@ -44,7 +44,7 @@ break;
 if (format[j + 1] != '\0' && flag == 0)
 printf(", ");
 j++;
-}	
+}
 printf("\n");
 va_end(a_list);
 }

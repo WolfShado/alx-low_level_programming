@@ -1,7 +1,7 @@
 #include "variadic_functions.h"
 
 /**
- * print_strings - a function that prints strings passed 
+ * print_strings - a function that prints strings passed
  * to the function separed by separators
  * @separator: A string that is used to separate strings
  * @n: number of unnamed args
