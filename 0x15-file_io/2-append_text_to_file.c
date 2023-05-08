@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen :  string's length.
+ * _strlen -  string's length.
  * @str: string's ptr.
  *
  * Return: length of the string
@@ -15,7 +15,7 @@ return (i);
 }
 
 /**
- * append_text_to_file : appends a text at the end of a file.
+ * append_text_to_file - appends a text at the end of a file.
  * @filename: file's name
  * @text_content: NULL terminated string to add at the end of the file
  *

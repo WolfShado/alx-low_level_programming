@@ -62,7 +62,7 @@ exit(99);
 }
 
 /**
- * check100 : checks that file descriptors were closed properly.
+ * check100 - checks that file descriptors were closed properly.
  * @check: checks if T/F.
  * @fd: file descriptor.
  *
@@ -77,9 +77,9 @@ exit(100);
 }
 }
 /**
- * main : Copies the content of a file to another file.
+ * main - Copies the content of a file to another file.
  * @argc: nbr of args passed.
- * @argv: array of pointers to the args.
+ * @argv: array of ptrs to the args.
  *
  * Return: (0)  Success.
  */
